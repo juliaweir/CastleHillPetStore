@@ -1,0 +1,29 @@
+Features
+The pet store management program has the following features:
+
+Pet creation: Users can create new pets and assign them names, species, and initial health and happiness levels.
+
+Pet management: Users can manage their pets by feeding them, playing with them, and interacting with them in various ways. The program automatically updates each pet's health and happiness levels based on these interactions.
+
+(In Progress)
+Pet log: The program records each interaction with each pet in a log file, which users can access at any time to view their pet's history and progress.
+
+Pet removal: Users can remove pets from the program if they no longer wish to manage them.
+
+Technical details
+The pet store management program is built using C# and .NET Framework. I’m using Visual Studio as our development environment, and I’m storing pet data in memory using lists and dictionaries.
+
+Next steps
+Continuing to refine and improve the pet store management program, with the following tasks on my to-do list:
+
+Implement testing for methods, mostly ones with return values. 
+
+Implementing error handling to ensure that the program can gracefully handle user errors and edge cases.
+
+Adding more robust reporting features so that users can view data about their pets in more detail. 
+
+
+The future of this program 
+As for the future of the program, I plan to convert it to a graphical user interface (GUI) application, which will allow for a more user-friendly and visually appealing experience. I also plan to incorporate sounds and images to enhance the interactivity and engagement of the user with their pets.
+
+Additionally, I would like to explore the possibility of storing pet information in a PostgreSQL database to improve data management and allow for more extensive tracking of pet behavior and interactions. This could provide additional insights into the behavior and well-being of the pets and enable us to develop more personalized care plans for them.
